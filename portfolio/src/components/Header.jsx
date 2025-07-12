@@ -10,5 +10,7 @@ const StyledHeader = styled('div')`
     display: flex;
     justify-content: center;
     align-items: center;
-    font-weight: bold;
+    font-weight: bolder;
+    color: cornflowerblue;
+    font-size: 32px;
 `

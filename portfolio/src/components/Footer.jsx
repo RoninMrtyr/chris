@@ -2,7 +2,9 @@ import styled from "styled-components";
 
 export default function Footer() {
     return (
-        <StyledFooter>Footer</StyledFooter>
+        <StyledFooter>
+            {/* Put footer stuff here. */}
+        </StyledFooter>
     )
 }
 

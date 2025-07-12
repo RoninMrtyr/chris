@@ -7,3 +7,9 @@ function App() {
 }
 
 export default App;
+
+
+/**
+ * TO DEPLOY YOUR APP RUN THIS LINE IN THE COMMAND LINE
+ * npm deploy
+ */
