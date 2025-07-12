@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://RoninMrtyr.github.io",
+  "homepage": "https://RoninMrtyr.github.io/chris",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
