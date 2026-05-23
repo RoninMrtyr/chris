@@ -1,2 +1,2 @@
-# chris
-React website portfolio.
+# Ronin
+static website portfolio
